@@ -1,0 +1,27 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="container" style="position:absolute; top:660px; left:0px; width:1550px;">
+    <div class="navbar  bg-main bg-inverse radius clearfix">
+        <div class="navbar-head">
+            <button class="button bg-white icon-navicon" data-target="#navbar-foot1">
+            </button>
+            <a href="#">
+               ######
+            </a>
+        </div>
+        <div class="navbar-body nav-navicon" id="navbar-foot1">
+            <ul class="nav nav-inline nav-split">
+                <li><a href="#">招贤纳士</a> </li>
+                <li><a href="#">产品中心</a> </li>
+                <li><a href="#">技术反馈</a> </li>
+                <li><a href="#">留言反馈</a> </li>
+                <li><a href="#">联系方式</a> </li>
+            </ul>
+            <p class="navbar-right navbar-text hidden-s">
+                联系电话：93489838</p>
+        </div>
+    </div>
+    <br />
+    <div class="text-center">
+        版权所有 归属个人</div>
+</div>      
